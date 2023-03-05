@@ -53,23 +53,22 @@ const About = () => {
               />
             </h1>
             <p>
-              I'm Abed. I am much influenced by Artificial Intelligence and
-              Automation. I specialize in microcontroller programming, and have
-              knowledge in website development and mobile applications design
+              Hello, world. I'm Abed Nassar, and today, I'm going to change it: 
             </p>
             <p>
-              I developed numerous Microcontroller applications using different
-              Microcontroller boards such as Arduino Uno R3, Arduino Nano,
-              Teensy 4.0, Arduino Pro Mini 328, MSP-EXP430FR4133, STM32F103C8T6
-              Blue Pill and Curiosity Nano.
+              I am a master of Embedded Systems Development. I've created some advanced technology, 
+              including a remote controlled Quadcopter Drone, a smart hat for COVID-19, 
+              and a wide range of futuristic gadgets. 
             </p>
             <p>
-              I'm also a known as Iron Man. Magic is science that you can't
-              understand
+              I am also a master of Web and Software Development. I've developed an AI that is my 
+              personal assistant, a full stack real time MERN chat application, an Employment Application 
+              Review System as well a Virtual Private Network.
             </p>
-            <p>In love with Programming.</p>
             <p>
-              If I need to define myself in one word that would be Ironman!!!
+              Everything is achievable through Technology . . .</p>
+            <p>
+              Science isn't about why, it's about why not?
             </p>
           </div>
           <div className="stage-cube-cont">
