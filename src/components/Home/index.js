@@ -63,7 +63,7 @@ const Home = () => {
             />
           </h1>
           <h2>
-            Computer Engineer / Embedded System Developer / AI/ML Developer
+            Embedded System Developer / AI/ML Developer / Software Engineer
           </h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME
