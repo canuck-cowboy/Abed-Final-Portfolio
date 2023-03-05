@@ -12,6 +12,12 @@ import StarfieldAnimation from "react-starfield-animation";
 
 const Contact = () => {
   const [letterClass, setLetterClass] = useState("text-animate");
+  const [formState, setFormState] = useState({
+    name: "",
+    email: "",
+    subject: "",
+    message: ""
+  })
   const form = useRef();
   const contactArray = "Contact Me".split("");
 
@@ -20,6 +26,12 @@ const Contact = () => {
       setLetterClass("text-animate-hover");
     }, 3000);
   }, []);
+
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+
+    setFormState({ ...formState, [name]: value })
+  }
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -47,11 +59,12 @@ const Contact = () => {
             progress: undefined,
             theme: "dark",
           });
-          const timeout = setTimeout(() => {
-            window.location.reload(false);
-          }, 3900);
-
-          return () => clearTimeout(timeout);
+          setFormState({
+            name: "",
+            email: "",
+            subject: "",
+            message: ""
+          })
         },
         () => {
           // alert('Failed to send the message, please try again')
@@ -96,9 +109,9 @@ const Contact = () => {
                 />
               </h1>
               <p>
-                I want to work with people who are willing to take risks and push the boundaries. 
-                I want to work with someone who's as passionate about Technology as I am. 
-                I'm always open to new ideas. If you need a hand, I'm only a message away! 
+                I want to work with people who are willing to take risks and push the boundaries.
+                I want to work with someone who's as passionate about Technology as I am.
+                I'm always open to new ideas. If you need a hand, I'm only a message away!
               </p>
             </div>
             <div className="contact-form">
@@ -109,6 +122,8 @@ const Contact = () => {
                       placeholder="Name"
                       type="text"
                       name="name"
+                      value={formState.name}
+                      onChange={handleChange}
                       required
                     />
                   </li>
@@ -116,7 +131,9 @@ const Contact = () => {
                     <input
                       placeholder="Email"
                       type="email"
+                      value={formState.email}
                       name="email"
+                      onChange={handleChange}
                       required
                     />
                   </li>
@@ -125,6 +142,8 @@ const Contact = () => {
                       placeholder="Subject"
                       type="text"
                       name="subject"
+                      value={formState.subject}
+                      onChange={handleChange}
                       required
                     />
                   </li>
@@ -132,6 +151,8 @@ const Contact = () => {
                     <textarea
                       placeholder="Message"
                       name="message"
+                      value={formState.message}
+                      onChange={handleChange}
                       required
                     ></textarea>
                   </li>
