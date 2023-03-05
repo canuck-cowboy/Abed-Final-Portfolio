@@ -145,10 +145,10 @@ const Contact = () => {
             </div>
           </div>
           <div className="info-map">
-            Mr. Nassar
+            Abed Nassar
             <br />
-            Sault Ste. Marie, <br />
-            Ontario, <br />
+            1520 Queen St. E, P6A 2G4 <br />
+            Sault Ste. Marie, Ontario <br />
             Canada
             <br />
           </div>
@@ -157,7 +157,7 @@ const Contact = () => {
               <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
               <Marker position={[46.502421, -84.287392]}>
                 <Popup>
-                  Mr. Nassar lives here, come over for a cup of coffee :)
+                  Here's my home address. I'll leave the door unlocked ;)
                 </Popup>
               </Marker>
             </MapContainer>
