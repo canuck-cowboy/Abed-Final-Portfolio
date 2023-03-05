@@ -53,16 +53,16 @@ const About = () => {
               />
             </h1>
             <p>
-              Hello, world. I'm Abed Nassar, and today, I'm going to change it: 
+              Hello, world. I'm Abed Nassar, and today, I'm going to change it:
             </p>
             <p>
-              I am a master of Embedded Systems Development. I've created some advanced technology, 
-              including a remote controlled Quadcopter Drone, a smart hat for COVID-19, 
-              and a wide range of futuristic gadgets. 
+              I am a master of Embedded Systems Development. I've created some advanced technology,
+              including a remote controlled Quadcopter Drone, a smart hat for COVID-19,
+              and a wide range of futuristic gadgets.
             </p>
             <p>
-              I am also a master of Web and Software Development. I've developed an AI that is my 
-              personal assistant, a full stack real time MERN chat application, an Employment Application 
+              I am also a master of Web and Software Development. I've developed an AI that is my
+              personal assistant, a full stack real time MERN chat application, an Employment Application
               Review System as well a Virtual Private Network.
             </p>
             <p>
@@ -86,7 +86,7 @@ const About = () => {
                 <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
               </div>
               <div className="face5">
-                <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
+                <img src="adr.png" alt="arduino" style={{ height: "100px" }} />
               </div>
               <div className="face6">
                 <FontAwesomeIcon icon={faRaspberryPi} color="#EC4D28" />
