@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useRef, useState } from "react";
 import styled, { keyframes } from "styled-components";
 
 import music from "../../assets/sounds/song.mp3";
