@@ -84,19 +84,15 @@ const Skills = () => {
               <br />
             </h1>
             <p>
-              I am an excellent computer engineer and technician capable of
-              fixing almost any, if not all computers. I am far more than a
-              Computer engineering prodigy who graduated from Algoma University
-              with honors. With an intelligence classified as super-genius, I am
-              easily one of the smartest people on Earth.
+              Knowledge is power. And I plan on becoming the most powerful man in the world. I never 
+              stop learning. It's what keeps me sharp. The moment you stop learning is the moment you 
+              become irrelevant. I learn by doing. The only way to truly master a skill is to practice it.
             </p>
             <p>
-              My genius allows me to act as a futurist. I am a person capable of
-              intuiting the future based on current trends, to the point of
-              foreshadowing that a situation like COVID-19 was going to happen
-              years before it did. My ability also extends to a much smaller
-              scale. It's really hard for human interactions to surprise me and
-              sometimes I finish other people's sentences.
+              I have a lot of skills. And you know what? Most of them are useful. I can 
+              build anything you need, and I'm not just talking about gadgets. I'm always learning. 
+              It's the only way to stay ahead of the curve. I can learn anything you can teach me. 
+              And I can teach you a lot. Now, take a look at what I've I have mastered
             </p>
           </div>
           <div className="tagcloud-wrap-mobile">
