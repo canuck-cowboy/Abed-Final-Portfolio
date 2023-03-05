@@ -96,10 +96,9 @@ const Contact = () => {
                 />
               </h1>
               <p>
-                No Amount of Money Ever Bought a Second of Time... I Came To
-                Realize That I had More To Offer This World Than Just Making
-                Things That Blow Up. Following is not really my style. Here's
-                where i live. I'll keep the door unlocked
+                I want to work with people who are willing to take risks and push the boundaries. 
+                I want to work with someone who's as passionate about Technology as I am. 
+                I'm always open to new ideas. If you need a hand, I'm only a message away! 
               </p>
             </div>
             <div className="contact-form">
