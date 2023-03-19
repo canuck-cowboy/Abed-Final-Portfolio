@@ -61,8 +61,7 @@ const About = () => {
               and a wide range of futuristic gadgets.
             </p>
             <p>
-              I am also a master of Web and Software Development. I've developed an AI that is my
-              personal assistant, a full stack real time MERN chat application, an Employment Application
+              I am also a master of Web and Software Development. I've developed multiple AI systems, a full stack real time MERN chat application, an Employment Application
               Review System as well a Virtual Private Network.
             </p>
             <p>
