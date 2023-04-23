@@ -14,7 +14,7 @@ const WordCloud = () => {
     'Wireshark',
     'VMware ESXi',
     'SQL', 
-    'Wireshark',
+    'SolarWinds',
     'SonicWall NAC',
     'Citrix ADC',
     'Powershell',
