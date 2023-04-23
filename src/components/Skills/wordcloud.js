@@ -15,7 +15,7 @@ const WordCloud = () => {
     'VMware ESXi',
     'SQL', 
     'SolarWinds',
-    'SonicWall NAC',
+    'SonicWall',
     'Citrix ADC',
     'Powershell',
     'CISCO',
@@ -28,7 +28,7 @@ const WordCloud = () => {
     'DevOps',
     'LAN/WAN',
     'O365',
-    'Barracuda Backup'
+    'Barracuda'
   ]
   const options = {
     radius: 300,

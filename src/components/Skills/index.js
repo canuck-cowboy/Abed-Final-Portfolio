@@ -38,7 +38,7 @@ const Skills = () => {
           'VMware ESXi',
           'SQL', 
           'SolarWinds',
-          'SonicWall NAC',
+          'SonicWall',
           'Citrix ADC',
           'Powershell',
           'CISCO',
@@ -51,7 +51,7 @@ const Skills = () => {
           'DevOps',
           'LAN/WAN',
           'O365',
-          'Barracuda Backup'
+          'Barracuda'
         ]}
       </TagCloud>
     );
