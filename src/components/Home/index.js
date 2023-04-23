@@ -63,7 +63,7 @@ const Home = () => {
             />
           </h1>
           <h2>
-             Database Admin / Embedded System Developer / AI/ML Developer
+          Data Center Specialist / Database Admin  / AI/ML Developer
           </h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME
