@@ -35,22 +35,22 @@ const Skills = () => {
           'Packet Tracer',
           'DNS',
           'Wireshark',
-          'VMware ESXi',
+          'Ansible',
           'SQL', 
           'SolarWinds',
           'SonicWall',
           'Citrix ADC',
           'Powershell',
-          'CISCO',
-          'Exchange',
+          'CLI',
+          'Python',
           'FTP',
-          'Sharepoint',
+          'C++',
           'CMD',
-          'Active Directory',
-          'Cable Crimping',
+          'AD',
+          'VMWare',
           'DevOps',
-          'LAN/WAN',
-          'O365',
+          'PuTTy',
+          'F5 BIG-IP',
           'Barracuda'
         ]}
       </TagCloud>
@@ -84,13 +84,13 @@ const Skills = () => {
               <br />
             </h1>
             <p>
-              Knowledge is power. And I plan on becoming the most powerful man in the world. I never 
+              Imagine, configure, innovate - the essence of a Network Engineer's mind. I never 
               stop learning. It's what keeps me sharp. The moment you stop learning is the moment you 
               become irrelevant. I learn by doing. The only way to truly master a skill is to practice it.
             </p>
             <p>
               I have a lot of skills. And you know what? Most of them are useful. I can 
-              build anything you need, and I'm not just talking about gadgets. I'm always learning. 
+              build anything you need, and I'm not just talking about Networks. I'm always learning. 
               It's the only way to stay ahead of the curve. I can learn anything you can teach me. 
               And I can teach you a lot. Now, take a look at what I've I have mastered
             </p>

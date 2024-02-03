@@ -110,7 +110,7 @@ const Contact = () => {
               </h1>
               <p>
                 I want to work with people who are willing to take risks and push the boundaries.
-                I want to work with someone who's as passionate about Technology as I am.
+                I want to work with someone who's as passionate about Networks as I am.
                 I'm always open to new ideas. If you need a hand, I'm only a message away!
               </p>
             </div>

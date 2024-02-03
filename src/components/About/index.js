@@ -56,12 +56,12 @@ const About = () => {
               Hello, world. I'm Abed Nassar, and today, I'm going to change it:
             </p>
             <p>
-              I am a master of Embedded Systems Development. I've created some advanced technology,
+              I am a passionate Network Architect. I've also created some advanced technology,
               including a remote controlled Quadcopter Drone, a smart hat for COVID-19,
               and a wide range of futuristic gadgets.
             </p>
             <p>
-              I am also a master of Web and Software Development. I've developed multiple AI systems, a full stack real time MERN chat application, an Employment Application
+              I am also a master of Embedded Systems and Software Development. I've developed  AI systems, a real time  chat application, an Employment Application
               Review System as well a Virtual Private Network.
             </p>
             <p>
