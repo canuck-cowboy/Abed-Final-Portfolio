@@ -9,7 +9,7 @@ import StarfieldAnimation from "react-starfield-animation";
 const Home = () => {
   const [letterClass, setLetterClass] = useState("text-animate");
 
-  const nameArray = "Abed".split("");
+  const nameArray = "Abdul Salam".split("");
   const jobArray = "Network Engineer".split("");
   const interestArray = "System Admin".split("");
 
