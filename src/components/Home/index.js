@@ -10,8 +10,8 @@ const Home = () => {
   const [letterClass, setLetterClass] = useState("text-animate");
 
   const nameArray = "Abdul Salam".split("");
-  const jobArray = "Network Engineer".split("");
-  const interestArray = "System Admin".split("");
+  const jobArray = "AI Scholar".split("");
+  const interestArray = "Computer Scientist".split("");
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -63,7 +63,7 @@ const Home = () => {
             />
           </h1>
           <h2>
-          Data Center Specialist / Database Admin  / IoT Developer
+            Network Engineer / DBA / IoT Developer
           </h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME

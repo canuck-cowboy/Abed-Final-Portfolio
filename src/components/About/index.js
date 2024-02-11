@@ -53,16 +53,15 @@ const About = () => {
               />
             </h1>
             <p>
-              Hello, world. I'm Abed Nassar, and today, I'm going to change it:
+              Hello, world. I'm the LogicTinkerer, and today, I'm going to change it:
             </p>
             <p>
-              I am a passionate Network Architect. I've also created some advanced technology,
-              including a remote controlled Quadcopter Drone, a smart hat for COVID-19,
-              and a wide range of futuristic gadgets.
+              I'm a passionate Computer Scientist who has devised sophisticated programs,
+              such as an AI chatbot, an AI Voice Assistant, a real time  chat application, as well a Virtual Private Network. 
             </p>
             <p>
-              I am also a master of Embedded Systems and Software Development. I've developed  AI systems, a real time  chat application, an Employment Application
-              Review System as well a Virtual Private Network.
+              I am also a master of Embedded Systems Development. I've developed a remote-controlled Quadcopter Drone,
+              a smart hat for COVID-19, and various IoT gadgets.
             </p>
             <p>
               Everything is achievable through Technology . . .</p>

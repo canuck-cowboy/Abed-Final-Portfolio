@@ -30,28 +30,23 @@ const Skills = () => {
     return (
       <TagCloud options={options}>
         {[
-          'Arduino',
-          'Java',
-          'Packet Tracer',
-          'DNS',
-          'Wireshark',
-          'Ansible',
-          'SQL', 
-          'SolarWinds',
-          'SonicWall',
-          'Citrix ADC',
-          'Powershell',
-          'CLI',
-          'Python',
-          'FTP',
-          'C++',
-          'CMD',
-          'AD',
-          'VMWare',
-          'DevOps',
-          'PuTTy',
-          'F5 BIG-IP',
-          'Barracuda'
+            'Arduino',
+            'Java',
+            'Python',
+            'OpenCV',
+            'Wireshark',
+            'SQL', 
+            'Pandas',
+            'NumPy',
+            'CLI',
+            'Matplotlib',
+            'C#',
+            'C++',
+            'AD',
+            'Keras',
+            'Django',
+            'Scikit-Learn',
+            'TensorFlow'
         ]}
       </TagCloud>
     );
@@ -84,13 +79,13 @@ const Skills = () => {
               <br />
             </h1>
             <p>
-              Imagine, configure, innovate - the essence of a Network Engineer's mind. I never 
+              Knowledge is power, and I plan on becoming the most powerful man in the world. I never 
               stop learning. It's what keeps me sharp. The moment you stop learning is the moment you 
               become irrelevant. I learn by doing. The only way to truly master a skill is to practice it.
             </p>
             <p>
               I have a lot of skills. And you know what? Most of them are useful. I can 
-              build anything you need, and I'm not just talking about Networks. I'm always learning. 
+              build anything you need, and I'm not just talking about Programs. I'm always learning. 
               It's the only way to stay ahead of the curve. I can learn anything you can teach me. 
               And I can teach you a lot. Now, take a look at what I've I have mastered
             </p>
